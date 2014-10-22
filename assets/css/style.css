@@ -667,6 +667,7 @@ div.post h2 a {
 }
 div.post h2 a:hover {
   color: #1abc9c;
+  color: #cccccc;
 }
 div.post div.post-body ul li,
 div.post div.post-body ol li {
