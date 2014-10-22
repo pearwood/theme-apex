@@ -206,7 +206,7 @@ h4 {
   padding: 0;
   border: 0;
   position: relative;
-  color: #222222;
+  color: #000000;
 }
 p {
   padding: 0;
@@ -301,6 +301,7 @@ div.header div.title ul.social li a {
   border-radius: 50%;
   background-color: #ffffff;
   color: #000000;
+  color: #333333;
   text-align: center;
   padding-top: 4px;
   margin: 0 5px 0 5px;
