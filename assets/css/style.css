@@ -633,7 +633,7 @@ div.post p.back {
 div.post p.read-more a,
 div.post p.back a {
   color: #1abc9c;
-  color: #aaaaaa;
+  color: #999999;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
@@ -668,7 +668,7 @@ div.post h2 a {
 }
 div.post h2 a:hover {
   color: #1abc9c;
-  color: #aaaaaa;
+  color: #999999;
 }
 div.post div.post-body ul li,
 div.post div.post-body ol li {
