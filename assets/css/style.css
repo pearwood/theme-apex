@@ -238,14 +238,17 @@ input[type="button"].btn {
 a {
   text-decoration: none;
   color: #1abc9c;
+  color: #999999;
 }
 a:visited {
   color: #1abc9c;
+  color: #999999;
 }
 a:hover {
   color: #000000;
   text-decoration: none;
   color: #1abc9c;
+  color: #999999;
 }
 div.header {
   position: fixed;
@@ -746,6 +749,7 @@ div.post div.post-body ul.post-tags {
   padding: 20px 0 0 0;
 }
 div.post div.post-body ul.post-tags li {
+  color: #999999;
   margin: 0;
   padding: 0;
 }
